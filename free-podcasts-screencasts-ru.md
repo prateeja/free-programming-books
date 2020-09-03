@@ -1,6 +1,7 @@
 ### Index
 
 * [Android](#android)
+* [Flutter](#flutter)
 * [Golang](#golang)
 * [Gulp](#gulp)
 * [Haskell](#haskell)
@@ -17,7 +18,13 @@
 
 ### Android
 
+* [Android Broadcast Podcast](https://soundcloud.com/android_broadcast) (Podcast)
 * [Android Dev](http://apptractor.ru/AndroidDev) (Podcast)
+
+
+### Flutter
+
+* [Flutter Dev Podcast](https://soundcloud.com/flutterdevpodcast) (Podcast)
 
 
 ### Golang
@@ -56,7 +63,7 @@
 
 ### QA
 
-* [QAGuild](http://automation-remarks.com/podcast) (Podcast)
+* [QAGuild](https://automation-remarks.com/tags/QAGuild.html) (Podcast)
 * [Подкаст тестировщиков](http://radio-qa.com) (Podcast)
 
 
@@ -95,6 +102,8 @@
 
 * [CTOcast](http://ctocast.com) (Podcast)
 * [DevZen Podcast](https://devzen.ru) (Podcast)
+* [Mobile People Talks](https://soundcloud.com/mobilepeopletalks) (Podcast)
+* [Podlodka](https://podlodka.io) (Podcast)
 * [Software Development podCAST](https://sdcast.ksdaemon.ru) (Podcast)
 * [The Art Of Programming](https://theartofprogramming.podbean.com) (Podcast)
 * [Две Столицы - Уютный подкаст IT панков](http://www.2capitals.space) (Podcast)

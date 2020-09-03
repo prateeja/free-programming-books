@@ -2,6 +2,7 @@
 
 * [C#](#c-sharp)
 * [CSS](#css)
+* [Javascript](#javascript)
 * [LaTeX](#latex)
 * [PHP](#php)
 * [Python](#python)
@@ -20,6 +21,11 @@
 ### CSS
 
 * [یادگیری پیکربندی با CSS](http://fa.learnlayout.com)
+
+
+### Javascript
+
+* [یادگیری اصولی جاواسکریپت](https://github.com/Mariotek/BetterUnderstandingOfJavascript)
 
 
 ### LaTeX
@@ -42,6 +48,11 @@
 ### رایانش ابری
 
 * [رایانش ابری](http://docs.occc.ir/books/Main%20Book-20110110_2.pdf) (PDF)
+
+
+### شبکه
+
+* آلبرت لازلو باراباسی -  [علم شبکه](http://networksciencebook.com)
 
 
 ### گنو/لینوکس

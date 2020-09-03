@@ -84,7 +84,11 @@
 * [Programming Mobile Applications for Android Handheld Systems pt. 2](https://www.coursera.org/course/androidpart2)
 * [Programming Mobile Services for Android Handheld Systems: Communication](https://www.coursera.org/course/posacommunication)
 * [Programming Mobile Services for Android Handheld Systems: Concurrency](https://www.coursera.org/course/posaconcurrency)
-* [Udacity Android Course Catalog](https://www.udacity.com/courses#!/android#!/android)
+* [Udacity Android Basics: Data Storage](https://www.udacity.com/course/android-basics-data-storage--ud845)
+* [Udacity Android Basics: Multiscreen Apps](https://www.udacity.com/course/android-basics-multiscreen-apps--ud839)
+* [Udacity Android Basics: Networking](https://www.udacity.com/course/android-basics-networking--ud843)
+* [Udacity Android Basics: User Input](https://www.udacity.com/course/android-basics-user-input--ud836)
+* [Udacity Android Basics: User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834)
 
 
 ### Angular
@@ -107,6 +111,7 @@
 
 ### C Sharp
 
+* [C# 101](https://channel9.msdn.com/Series/CSharp-101) - Scott Hanselman, Kendra Havens Microsoft.
 * [Learn how to program: C#](https://www.learnhowtoprogram.com/c) - Epicodus Inc.
 
 
@@ -158,6 +163,7 @@
 * [Deep Learning for Natural Language Processing](http://cs224d.stanford.edu)
 * [MIT 6.S094: Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu)
 * [Practical Deep Learning For Coders taught](http://www.fast.ai) - Jeremy Howard
+* [Practical Deep Learning for Coders, v3 (using fastai library)](https://course.fast.ai)
 * [Self-Paced Courses for Deep Learning](https://developer.nvidia.com/deep-learning-courses)
 * [Unsupervised Feature Learning and Deep Learning](http://deeplearning.stanford.edu/tutorial)
 * [What is Deep Learning](https://www.udacity.com/course/deep-learning--ud730) (Udacity)
@@ -432,7 +438,7 @@
 
 ### Theory
 
-* [Automata Theory](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+Fall2016/about)
+* [Automata Theory](https://online.stanford.edu/courses/soe-ycsautomata-automata-theory)
 * [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313) (Udacity)
 
 
